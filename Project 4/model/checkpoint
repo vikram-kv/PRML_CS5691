@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Files\\PRML\\Assignment 4\\model\\speech_recognition.lstm"
+all_model_checkpoint_paths: "D:\\Files\\PRML\\Assignment 4\\model\\speech_recognition.lstm"

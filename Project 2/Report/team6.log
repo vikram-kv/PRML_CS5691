@@ -1,0 +1,916 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.17)  3 MAR 2022 14:31
+entering extended mode
+**"d:/Files/PRML/Assignment 2/Report/team6.tex"
+("d:/Files/PRML/Assignment 2/Report/team6.tex"
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/12/16 3.52 The Babel package
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count185
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count186
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1158.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/babel\nil.ldf
+Language: nil 2020/12/16 3.52 Nil language
+\l@nil=\language80
+)) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip49
+\thanksmargin=\skip50
+\droptitle=\skip51
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count187
+\c@Blindtext=\count188
+\c@blind@countparstart=\count189
+\blind@countxx=\count190
+\blindtext@numBlindtext=\count191
+\blind@countyy=\count192
+\c@blindlist=\count193
+\c@blindlistlevel=\count194
+\c@blindlist@level=\count195
+\blind@listitem=\count196
+\c@blind@listcount=\count197
+\c@blind@levelcount=\count198
+\blind@mathformula=\count199
+\blind@Mathformula=\count266
+\c@blind@randomcount=\count267
+\c@blind@randommax=\count268
+\c@blind@pangramcount=\count269
+\c@blind@pangrammax=\count270
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen140
+)) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip16
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks16
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks17
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks18
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/02/20 v3.6 Customizing captions (AR)
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/01/07 v2.3 caption3 kernel (AR)
+\caption@tempdima=\dimen151
+\captionmargin=\dimen152
+\caption@leftmargin=\dimen153
+\caption@rightmargin=\dimen154
+\caption@width=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count283
+\c@continuedfloat=\count284
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count285
+\c@subtable=\count286
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip55
+\bibsep=\skip56
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count287
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count288
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count289
+\l__pdf_internal_box=\box49
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count290
+\l__lipsum_a_int=\count291
+\l__lipsum_b_int=\count292
+
+LaTeX3 Info: Defining command \LipsumPar with sig. 'm' on line 175.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListStart with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListSurrounders with sig. 's+m+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSeparator with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemStart with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSeparator with sig.
+(LaTeX3)     's+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumDefault with sig. 'm' on line 214.
+
+
+LaTeX3 Info: Defining command \lipsum with sig. 'sO{\g_lipsum_default_range_tl
+(LaTeX3)     }o' on line 223.
+
+
+LaTeX3 Info: Defining command \unpacklipsum with sig.
+(LaTeX3)     'sO{\g_lipsum_default_range_tl }o' on line 225.
+
+
+LaTeX3 Info: Defining command \SetLipsumText with sig. 'm' on line 326.
+
+
+LaTeX3 Info: Defining command \SetLipsumLanguage with sig. 'm' on line 328.
+
+
+LaTeX3 Info: Defining command \setlipsum with sig. '+m' on line 357.
+
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count295
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count296
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen160
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip57
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count303
+\Gm@cntv=\count304
+\c@Gm@tempcnt=\count305
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks21
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 32.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) ("d:/Files\PRML\Assignment 2\Report\team6.aux")
+\openout1 = `team6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen171
+\scratchbox=\box50
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen172
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks23
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 32.
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Vedant\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count312
+)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
+ ("d:/Files\PRML\Assignment 2\Report\team6.out") ("d:/Files\PRML\Assignment 2\Report\team6.out")
+\@outlinefile=\write3
+\openout3 = `team6.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23575pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04675pt
+* \textwidth=540.60239pt
+* \textheight=731.23575pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<logo.pdf, id=3, 366.36874pt x 366.36874pt>
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+Package pdftex.def Info: logo.pdf  used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 142.2627pt.
+[1
+
+{C:/Users/Vedant/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <d:/Files/PRML/Assignment 2/Report/logo.pdf>]
+<regression/1d-degree=0-train-fig.png, id=16, 722.7pt x 578.16pt>
+File: regression/1d-degree=0-train-fig.png Graphic file (type png)
+<use regression/1d-degree=0-train-fig.png>
+Package pdftex.def Info: regression/1d-degree=0-train-fig.png  used on input line 81.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+<regression/1d-degree=1-train-fig.png, id=18, 722.7pt x 578.16pt>
+File: regression/1d-degree=1-train-fig.png Graphic file (type png)
+<use regression/1d-degree=1-train-fig.png>
+Package pdftex.def Info: regression/1d-degree=1-train-fig.png  used on input line 82.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+<regression/1d-degree=3-train-fig.png, id=19, 722.7pt x 578.16pt>
+File: regression/1d-degree=3-train-fig.png Graphic file (type png)
+<use regression/1d-degree=3-train-fig.png>
+Package pdftex.def Info: regression/1d-degree=3-train-fig.png  used on input line 83.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+<regression/1d-degree=7-train-fig.png, id=20, 722.7pt x 578.16pt>
+File: regression/1d-degree=7-train-fig.png Graphic file (type png)
+<use regression/1d-degree=7-train-fig.png>
+Package pdftex.def Info: regression/1d-degree=7-train-fig.png  used on input line 84.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 88.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (28.45279pt too wide) in paragraph at lines 80--88
+ [] 
+ []
+
+<regression/2d-degree=0-train-fig.png, id=21, 722.7pt x 722.7pt>
+File: regression/2d-degree=0-train-fig.png Graphic file (type png)
+<use regression/2d-degree=0-train-fig.png>
+Package pdftex.def Info: regression/2d-degree=0-train-fig.png  used on input line 98.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+<regression/2d-degree=1-train-fig.png, id=22, 722.7pt x 722.7pt>
+File: regression/2d-degree=1-train-fig.png Graphic file (type png)
+<use regression/2d-degree=1-train-fig.png>
+Package pdftex.def Info: regression/2d-degree=1-train-fig.png  used on input line 99.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+<regression/2d-degree=3-train-fig.png, id=23, 722.7pt x 722.7pt>
+File: regression/2d-degree=3-train-fig.png Graphic file (type png)
+<use regression/2d-degree=3-train-fig.png>
+Package pdftex.def Info: regression/2d-degree=3-train-fig.png  used on input line 100.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+<regression/2d-degree=6-train-fig.png, id=24, 722.7pt x 722.7pt>
+File: regression/2d-degree=6-train-fig.png Graphic file (type png)
+<use regression/2d-degree=6-train-fig.png>
+Package pdftex.def Info: regression/2d-degree=6-train-fig.png  used on input line 101.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 105.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (28.45279pt too wide) in paragraph at lines 97--105
+ [] 
+ []
+
+<regression/1d-ls-train-dev-fig.png, id=25, 722.7pt x 578.16pt>
+File: regression/1d-ls-train-dev-fig.png Graphic file (type png)
+<use regression/1d-ls-train-dev-fig.png>
+Package pdftex.def Info: regression/1d-ls-train-dev-fig.png  used on input line 112.
+(pdftex.def)             Requested size: 284.52756pt x 227.62523pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 113.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.113 ... and development (red) data (1D dataset)}
+                                                   [1 <d:/Files/PRML/Assignment 2/Report/regression/1d-degree=0-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-degree=1-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-degree=3-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-degree=7-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-degree=0-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-degree=1-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-degree=3-train-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-degree=6-train-fig.png>]
+<regression/2d-ls-train-dev-fig.png, id=40, 722.7pt x 578.16pt>
+File: regression/2d-ls-train-dev-fig.png Graphic file (type png)
+<use regression/2d-ls-train-dev-fig.png>
+Package pdftex.def Info: regression/2d-ls-train-dev-fig.png  used on input line 120.
+(pdftex.def)             Requested size: 284.52756pt x 227.62523pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 121.
+See the caption package documentation for explanation.
+
+<regression/1d-complex-20-dev-fig.png, id=41, 722.7pt x 578.16pt>
+File: regression/1d-complex-20-dev-fig.png Graphic file (type png)
+<use regression/1d-complex-20-dev-fig.png>
+Package pdftex.def Info: regression/1d-complex-20-dev-fig.png  used on input line 131.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+<regression/1d-complex-50-dev-fig.png, id=42, 722.7pt x 578.16pt>
+File: regression/1d-complex-50-dev-fig.png Graphic file (type png)
+<use regression/1d-complex-50-dev-fig.png>
+Package pdftex.def Info: regression/1d-complex-50-dev-fig.png  used on input line 132.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+<regression/1d-complex-100-dev-fig.png, id=43, 722.7pt x 578.16pt>
+File: regression/1d-complex-100-dev-fig.png Graphic file (type png)
+<use regression/1d-complex-100-dev-fig.png>
+Package pdftex.def Info: regression/1d-complex-100-dev-fig.png  used on input line 133.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+<regression/1d-complex-200-dev-fig.png, id=44, 722.7pt x 578.16pt>
+File: regression/1d-complex-200-dev-fig.png Graphic file (type png)
+<use regression/1d-complex-200-dev-fig.png>
+Package pdftex.def Info: regression/1d-complex-200-dev-fig.png  used on input line 134.
+(pdftex.def)             Requested size: 142.26378pt x 113.8126pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 138.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (28.45279pt too wide) in paragraph at lines 130--138
+ [] 
+ []
+
+[2 <d:/Files/PRML/Assignment 2/Report/regression/1d-ls-train-dev-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ls-train-dev-fig.png>]
+<regression/2d-ls-20-test-fig.png, id=54, 722.7pt x 722.7pt>
+File: regression/2d-ls-20-test-fig.png Graphic file (type png)
+<use regression/2d-ls-20-test-fig.png>
+Package pdftex.def Info: regression/2d-ls-20-test-fig.png  used on input line 147.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+<regression/2d-ls-100-test-fig.png, id=55, 722.7pt x 722.7pt>
+File: regression/2d-ls-100-test-fig.png Graphic file (type png)
+<use regression/2d-ls-100-test-fig.png>
+Package pdftex.def Info: regression/2d-ls-100-test-fig.png  used on input line 148.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+<regression/2d-ls-200-test-fig.png, id=56, 722.7pt x 722.7pt>
+File: regression/2d-ls-200-test-fig.png Graphic file (type png)
+<use regression/2d-ls-200-test-fig.png>
+Package pdftex.def Info: regression/2d-ls-200-test-fig.png  used on input line 149.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+<regression/2d-ls-1000-test-fig.png, id=57, 722.7pt x 722.7pt>
+File: regression/2d-ls-1000-test-fig.png Graphic file (type png)
+<use regression/2d-ls-1000-test-fig.png>
+Package pdftex.def Info: regression/2d-ls-1000-test-fig.png  used on input line 150.
+(pdftex.def)             Requested size: 142.26378pt x 142.26576pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 154.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (28.45279pt too wide) in paragraph at lines 146--154
+ [] 
+ []
+
+<regression/1d-rms-vs-sample-size-fig.png, id=58, 722.7pt x 578.16pt>
+File: regression/1d-rms-vs-sample-size-fig.png Graphic file (type png)
+<use regression/1d-rms-vs-sample-size-fig.png>
+Package pdftex.def Info: regression/1d-rms-vs-sample-size-fig.png  used on input line 161.
+(pdftex.def)             Requested size: 227.62204pt x 182.0949pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 162.
+See the caption package documentation for explanation.
+
+<regression/2d-rms-vs-sample-size-fig.png, id=59, 722.7pt x 578.16pt>
+File: regression/2d-rms-vs-sample-size-fig.png Graphic file (type png)
+<use regression/2d-rms-vs-sample-size-fig.png>
+Package pdftex.def Info: regression/2d-rms-vs-sample-size-fig.png  used on input line 173.
+(pdftex.def)             Requested size: 227.62204pt x 182.0949pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 174.
+See the caption package documentation for explanation.
+
+[3 <d:/Files/PRML/Assignment 2/Report/regression/1d-complex-20-dev-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-complex-50-dev-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-complex-100-dev-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-complex-200-dev-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ls-20-test-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ls-100-test-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ls-200-test-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ls-1000-test-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-rms-vs-sample-size-fig.png>]
+<regression/1d-ridge-ls-compare-7-7lnlam--4.615384615384617-fig.png, id=76, 925.056pt x 635.976pt>
+File: regression/1d-ridge-ls-compare-7-7lnlam--4.615384615384617-fig.png Graphic file (type png)
+<use regression/1d-ridge-ls-compare-7-7lnlam--4.615384615384617-fig.png>
+Package pdftex.def Info: regression/1d-ridge-ls-compare-7-7lnlam--4.615384615384617-fig.png  used on input line 188.
+(pdftex.def)             Requested size: 199.16928pt x 136.92625pt.
+<regression/1d-ridge-ls-compare-7-7lnlam--2.051282051282051-fig.png, id=77, 925.056pt x 635.976pt>
+File: regression/1d-ridge-ls-compare-7-7lnlam--2.051282051282051-fig.png Graphic file (type png)
+<use regression/1d-ridge-ls-compare-7-7lnlam--2.051282051282051-fig.png>
+Package pdftex.def Info: regression/1d-ridge-ls-compare-7-7lnlam--2.051282051282051-fig.png  used on input line 189.
+(pdftex.def)             Requested size: 199.16928pt x 136.92625pt.
+<regression/1d-ridge-ls-compare-7-7lnlam--1.025641025641029-fig.png, id=78, 925.056pt x 635.976pt>
+File: regression/1d-ridge-ls-compare-7-7lnlam--1.025641025641029-fig.png Graphic file (type png)
+<use regression/1d-ridge-ls-compare-7-7lnlam--1.025641025641029-fig.png>
+Package pdftex.def Info: regression/1d-ridge-ls-compare-7-7lnlam--1.025641025641029-fig.png  used on input line 191.
+(pdftex.def)             Requested size: 199.16928pt x 136.92625pt.
+<regression/1d-ridge-ls-compare-7-7lnlam-0.0-fig.png, id=79, 925.056pt x 635.976pt>
+File: regression/1d-ridge-ls-compare-7-7lnlam-0.0-fig.png Graphic file (type png)
+<use regression/1d-ridge-ls-compare-7-7lnlam-0.0-fig.png>
+Package pdftex.def Info: regression/1d-ridge-ls-compare-7-7lnlam-0.0-fig.png  used on input line 192.
+(pdftex.def)             Requested size: 199.16928pt x 136.92625pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 195.
+See the caption package documentation for explanation.
+
+<regression/2d-ridge-ls-compare-27-200lnlam--4.615384615384617-fig.png, id=80, 722.7pt x 722.7pt>
+File: regression/2d-ridge-ls-compare-27-200lnlam--4.615384615384617-fig.png Graphic file (type png)
+<use regression/2d-ridge-ls-compare-27-200lnlam--4.615384615384617-fig.png>
+Package pdftex.def Info: regression/2d-ridge-ls-compare-27-200lnlam--4.615384615384617-fig.png  used on input line 202.
+(pdftex.def)             Requested size: 199.16928pt x 199.16766pt.
+<regression/2d-ridge-ls-compare-27-200lnlam--2.051282051282051-fig.png, id=81, 722.7pt x 722.7pt>
+File: regression/2d-ridge-ls-compare-27-200lnlam--2.051282051282051-fig.png Graphic file (type png)
+<use regression/2d-ridge-ls-compare-27-200lnlam--2.051282051282051-fig.png>
+Package pdftex.def Info: regression/2d-ridge-ls-compare-27-200lnlam--2.051282051282051-fig.png  used on input line 203.
+(pdftex.def)             Requested size: 199.16928pt x 199.16766pt.
+<regression/2d-ridge-ls-compare-27-200lnlam--1.025641025641029-fig.png, id=82, 722.7pt x 722.7pt>
+File: regression/2d-ridge-ls-compare-27-200lnlam--1.025641025641029-fig.png Graphic file (type png)
+<use regression/2d-ridge-ls-compare-27-200lnlam--1.025641025641029-fig.png>
+Package pdftex.def Info: regression/2d-ridge-ls-compare-27-200lnlam--1.025641025641029-fig.png  used on input line 205.
+(pdftex.def)             Requested size: 199.16928pt x 199.16766pt.
+<regression/2d-ridge-ls-compare-27-200lnlam-0.0-fig.png, id=83, 722.7pt x 722.7pt>
+File: regression/2d-ridge-ls-compare-27-200lnlam-0.0-fig.png Graphic file (type png)
+<use regression/2d-ridge-ls-compare-27-200lnlam-0.0-fig.png>
+Package pdftex.def Info: regression/2d-ridge-ls-compare-27-200lnlam-0.0-fig.png  used on input line 206.
+(pdftex.def)             Requested size: 199.16928pt x 199.16766pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 209.
+See the caption package documentation for explanation.
+
+[4 <d:/Files/PRML/Assignment 2/Report/regression/2d-rms-vs-sample-size-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-ridge-ls-compare-7-7lnlam--4.615384615384617-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-ridge-ls-compare-7-7lnlam--2.051282051282051-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-ridge-ls-compare-7-7lnlam--1.025641025641029-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/1d-ridge-ls-compare-7-7lnlam-0.0-fig.png>]
+<regression/1d-rms-vs-lam-fig.png, id=97, 722.7pt x 578.16pt>
+File: regression/1d-rms-vs-lam-fig.png Graphic file (type png)
+<use regression/1d-rms-vs-lam-fig.png>
+Package pdftex.def Info: regression/1d-rms-vs-lam-fig.png  used on input line 217.
+(pdftex.def)             Requested size: 284.52756pt x 227.62523pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 218.
+See the caption package documentation for explanation.
+
+[5 <d:/Files/PRML/Assignment 2/Report/regression/2d-ridge-ls-compare-27-200lnlam--4.615384615384617-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ridge-ls-compare-27-200lnlam--2.051282051282051-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ridge-ls-compare-27-200lnlam--1.025641025641029-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-ridge-ls-compare-27-200lnlam-0.0-fig.png>]
+<regression/2d-rms-vs-lam-fig.png, id=107, 722.7pt x 578.16pt>
+File: regression/2d-rms-vs-lam-fig.png Graphic file (type png)
+<use regression/2d-rms-vs-lam-fig.png>
+Package pdftex.def Info: regression/2d-rms-vs-lam-fig.png  used on input line 225.
+(pdftex.def)             Requested size: 284.52756pt x 227.62523pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 226.
+See the caption package documentation for explanation.
+
+[6 <d:/Files/PRML/Assignment 2/Report/regression/1d-rms-vs-lam-fig.png> <d:/Files/PRML/Assignment 2/Report/regression/2d-rms-vs-lam-fig.png>]
+<classifier/PDFs/NLS/case3.png, id=120, 722.7pt x 709.6914pt>
+File: classifier/PDFs/NLS/case3.png Graphic file (type png)
+<use classifier/PDFs/NLS/case3.png>
+Package pdftex.def Info: classifier/PDFs/NLS/case3.png  used on input line 250.
+(pdftex.def)             Requested size: 156.49014pt x 153.67441pt.
+<classifier/PDFs/NLS/case5.png, id=121, 722.7pt x 709.6914pt>
+File: classifier/PDFs/NLS/case5.png Graphic file (type png)
+<use classifier/PDFs/NLS/case5.png>
+Package pdftex.def Info: classifier/PDFs/NLS/case5.png  used on input line 251.
+(pdftex.def)             Requested size: 156.49014pt x 153.67441pt.
+<classifier/PDFs/REAL/case1.png, id=122, 722.7pt x 709.6914pt>
+File: classifier/PDFs/REAL/case1.png Graphic file (type png)
+<use classifier/PDFs/REAL/case1.png>
+Package pdftex.def Info: classifier/PDFs/REAL/case1.png  used on input line 252.
+(pdftex.def)             Requested size: 156.49014pt x 153.67441pt.
+<classifier/PDFs/REAL/case2.png, id=123, 722.7pt x 709.6914pt>
+File: classifier/PDFs/REAL/case2.png Graphic file (type png)
+<use classifier/PDFs/REAL/case2.png>
+Package pdftex.def Info: classifier/PDFs/REAL/case2.png  used on input line 253.
+(pdftex.def)             Requested size: 156.49014pt x 153.67441pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 256.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (29.35825pt too wide) in paragraph at lines 249--256
+ [] 
+ []
+
+<classifier/REAL_plots/EigenvectorContour_Case1.png, id=124, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/EigenvectorContour_Case1.png Graphic file (type png)
+<use classifier/REAL_plots/EigenvectorContour_Case1.png>
+Package pdftex.def Info: classifier/REAL_plots/EigenvectorContour_Case1.png  used on input line 265.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/EigenvectorContour_Case2.png, id=125, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/EigenvectorContour_Case2.png Graphic file (type png)
+<use classifier/REAL_plots/EigenvectorContour_Case2.png>
+Package pdftex.def Info: classifier/REAL_plots/EigenvectorContour_Case2.png  used on input line 266.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/EigenvectorContour_Case3.png, id=126, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/EigenvectorContour_Case3.png Graphic file (type png)
+<use classifier/REAL_plots/EigenvectorContour_Case3.png>
+Package pdftex.def Info: classifier/REAL_plots/EigenvectorContour_Case3.png  used on input line 267.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/EigenvectorContour_Case4.png, id=127, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/EigenvectorContour_Case4.png Graphic file (type png)
+<use classifier/REAL_plots/EigenvectorContour_Case4.png>
+Package pdftex.def Info: classifier/REAL_plots/EigenvectorContour_Case4.png  used on input line 268.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/EigenvectorContour_Case5.png, id=128, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/EigenvectorContour_Case5.png Graphic file (type png)
+<use classifier/REAL_plots/EigenvectorContour_Case5.png>
+Package pdftex.def Info: classifier/REAL_plots/EigenvectorContour_Case5.png  used on input line 270.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/LS_plots/EigenvectorContour_Case1.png, id=129, 722.7pt x 722.7pt>
+File: classifier/LS_plots/EigenvectorContour_Case1.png Graphic file (type png)
+<use classifier/LS_plots/EigenvectorContour_Case1.png>
+Package pdftex.def Info: classifier/LS_plots/EigenvectorContour_Case1.png  used on input line 271.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/NLS_plots/EigenvectorContour_Case2.png, id=130, 722.7pt x 722.7pt>
+File: classifier/NLS_plots/EigenvectorContour_Case2.png Graphic file (type png)
+<use classifier/NLS_plots/EigenvectorContour_Case2.png>
+Package pdftex.def Info: classifier/NLS_plots/EigenvectorContour_Case2.png  used on input line 272.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 275.
+See the caption package documentation for explanation.
+
+[7 <d:/Files/PRML/Assignment 2/Report/classifier/PDFs/NLS/case3.png> <d:/Files/PRML/Assignment 2/Report/classifier/PDFs/NLS/case5.png> <d:/Files/PRML/Assignment 2/Report/classifier/PDFs/REAL/case1.png> <d:/Files/PRML/Assignment 2/Report/classifier/PDFs/REAL/case2.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/EigenvectorContour_Case1.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/EigenvectorContour_Case2.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/EigenvectorContour_Case3.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/EigenvectorContour_Case4.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/EigenvectorContour_Case5.png> <d:/Files/PRML/Assignment 2/Report/classifier/LS_plots/EigenvectorContour_Case1.png> <d:/Files/PRML/Assignment 2/Report/classifier/NLS_plots/EigenvectorContour_Case2.png>]
+<classifier/REAL_plots/DecisionBoundary_Case1.png, id=149, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/DecisionBoundary_Case1.png Graphic file (type png)
+<use classifier/REAL_plots/DecisionBoundary_Case1.png>
+Package pdftex.def Info: classifier/REAL_plots/DecisionBoundary_Case1.png  used on input line 284.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/DecisionBoundary_Case2.png, id=150, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/DecisionBoundary_Case2.png Graphic file (type png)
+<use classifier/REAL_plots/DecisionBoundary_Case2.png>
+Package pdftex.def Info: classifier/REAL_plots/DecisionBoundary_Case2.png  used on input line 285.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/DecisionBoundary_Case3.png, id=151, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/DecisionBoundary_Case3.png Graphic file (type png)
+<use classifier/REAL_plots/DecisionBoundary_Case3.png>
+Package pdftex.def Info: classifier/REAL_plots/DecisionBoundary_Case3.png  used on input line 286.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/DecisionBoundary_Case4.png, id=152, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/DecisionBoundary_Case4.png Graphic file (type png)
+<use classifier/REAL_plots/DecisionBoundary_Case4.png>
+Package pdftex.def Info: classifier/REAL_plots/DecisionBoundary_Case4.png  used on input line 287.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/DecisionBoundary_Case5.png, id=153, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/DecisionBoundary_Case5.png Graphic file (type png)
+<use classifier/REAL_plots/DecisionBoundary_Case5.png>
+Package pdftex.def Info: classifier/REAL_plots/DecisionBoundary_Case5.png  used on input line 289.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/NLS_plots/DecisionBoundary_Case2.png, id=154, 722.7pt x 722.7pt>
+File: classifier/NLS_plots/DecisionBoundary_Case2.png Graphic file (type png)
+<use classifier/NLS_plots/DecisionBoundary_Case2.png>
+Package pdftex.def Info: classifier/NLS_plots/DecisionBoundary_Case2.png  used on input line 290.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/NLS_plots/DecisionBoundary_Case4.png, id=155, 722.7pt x 722.7pt>
+File: classifier/NLS_plots/DecisionBoundary_Case4.png Graphic file (type png)
+<use classifier/NLS_plots/DecisionBoundary_Case4.png>
+Package pdftex.def Info: classifier/NLS_plots/DecisionBoundary_Case4.png  used on input line 291.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/LS_plots/DecisionBoundary_Case5.png, id=156, 722.7pt x 722.7pt>
+File: classifier/LS_plots/DecisionBoundary_Case5.png Graphic file (type png)
+<use classifier/LS_plots/DecisionBoundary_Case5.png>
+Package pdftex.def Info: classifier/LS_plots/DecisionBoundary_Case5.png  used on input line 292.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 295.
+See the caption package documentation for explanation.
+
+<classifier/LS_plots/ConfusionMatrix_Case5.png, id=157, 722.7pt x 722.7pt>
+File: classifier/LS_plots/ConfusionMatrix_Case5.png Graphic file (type png)
+<use classifier/LS_plots/ConfusionMatrix_Case5.png>
+Package pdftex.def Info: classifier/LS_plots/ConfusionMatrix_Case5.png  used on input line 303.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/NLS_plots/ConfusionMatrix_Case2.png, id=158, 722.7pt x 722.7pt>
+File: classifier/NLS_plots/ConfusionMatrix_Case2.png Graphic file (type png)
+<use classifier/NLS_plots/ConfusionMatrix_Case2.png>
+Package pdftex.def Info: classifier/NLS_plots/ConfusionMatrix_Case2.png  used on input line 304.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+<classifier/REAL_plots/ConfusionMatrix_Case5.png, id=159, 722.7pt x 722.7pt>
+File: classifier/REAL_plots/ConfusionMatrix_Case5.png Graphic file (type png)
+<use classifier/REAL_plots/ConfusionMatrix_Case5.png>
+Package pdftex.def Info: classifier/REAL_plots/ConfusionMatrix_Case5.png  used on input line 305.
+(pdftex.def)             Requested size: 128.0374pt x 128.02927pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 308.
+See the caption package documentation for explanation.
+
+[8 <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/DecisionBoundary_Case1.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/DecisionBoundary_Case2.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/DecisionBoundary_Case3.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/DecisionBoundary_Case4.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/DecisionBoundary_Case5.png> <d:/Files/PRML/Assignment 2/Report/classifier/NLS_plots/DecisionBoundary_Case2.png> <d:/Files/PRML/Assignment 2/Report/classifier/NLS_plots/DecisionBoundary_Case4.png> <d:/Files/PRML/Assignment 2/Report/classifier/LS_plots/DecisionBoundary_Case5.png> <d:/Files/PRML/Assignment 2/Report/classifier/LS_plots/ConfusionMatrix_Case5.png> <d:/Files/PRML/Assignment 2/Report/classifier/NLS_plots/ConfusionMatrix_Case2.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/ConfusionMatrix_Case5.png>]
+<classifier/LS_plots/ROCDETPlot.png, id=179, 1445.4pt x 1445.4pt>
+File: classifier/LS_plots/ROCDETPlot.png Graphic file (type png)
+<use classifier/LS_plots/ROCDETPlot.png>
+Package pdftex.def Info: classifier/LS_plots/ROCDETPlot.png  used on input line 316.
+(pdftex.def)             Requested size: 284.53156pt x 142.25475pt.
+<classifier/NLS_plots/ROCDETPlot.png, id=180, 1445.4pt x 1445.4pt>
+File: classifier/NLS_plots/ROCDETPlot.png Graphic file (type png)
+<use classifier/NLS_plots/ROCDETPlot.png>
+Package pdftex.def Info: classifier/NLS_plots/ROCDETPlot.png  used on input line 317.
+(pdftex.def)             Requested size: 284.53156pt x 142.25475pt.
+
+Overfull \hbox (28.46075pt too wide) in paragraph at lines 315--319
+ [] 
+ []
+
+<classifier/REAL_plots/ROCDETPlot.png, id=181, 1445.4pt x 1445.4pt>
+File: classifier/REAL_plots/ROCDETPlot.png Graphic file (type png)
+<use classifier/REAL_plots/ROCDETPlot.png>
+Package pdftex.def Info: classifier/REAL_plots/ROCDETPlot.png  used on input line 321.
+(pdftex.def)             Requested size: 512.13914pt x 256.05855pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 324.
+See the caption package documentation for explanation.
+
+[9 <d:/Files/PRML/Assignment 2/Report/classifier/LS_plots/ROCDETPlot.png> <d:/Files/PRML/Assignment 2/Report/classifier/NLS_plots/ROCDETPlot.png> <d:/Files/PRML/Assignment 2/Report/classifier/REAL_plots/ROCDETPlot.png>] ("d:/Files\PRML\Assignment 2\Report\team6.aux")
+Package rerunfilecheck Info: File `team6.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 10032 strings out of 479618
+ 170448 string characters out of 2864551
+ 575334 words of memory out of 3000000
+ 26947 multiletter control sequences out of 15000+200000
+ 421249 words of font info for 58 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 81i,10n,89p,877b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Vedant/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Vedant/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Vedant/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Vedant/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Vedant/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "d:/Files\PRML\Assignment 2\Report\team6.pdf" (10 pages, 5117750 bytes).
+PDF statistics:
+ 219 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+
